@@ -42,25 +42,24 @@ Sine: -0.13235175009777303
 Python 3
 VS Code (for development)
 📂 Project Structure
-Assignment3/
+python_assignment_3/
 │── factorial.py
 │── math_operations.py
 │── README.md
 ▶️ How to Run
 Clone the repository:
-git clone <your-repo-link>
+git clone https://github.com/rajyadav-590/python_assignment_3.git
 Navigate to the folder:
-cd Assignment3
+cd python_assignment_3
 Run the files:
 python factorial.py
 python math_operations.py
 ⚠️ Notes
 Ensure Python is installed on your system
 Input should be a valid number
-Negative numbers are not allowed for factorial
 👨‍💻 Author
 
-Your Name
+Raj yadav
 
 📎 Submission
 
